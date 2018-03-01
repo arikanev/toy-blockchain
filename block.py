@@ -1,3 +1,5 @@
+''' Code implemented from http://blockxchain.org/2017/06/04/simple-local-python-blockchain-pt1/'''
+
 import time, hashlib
 
 
